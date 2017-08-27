@@ -1,2 +1,2 @@
 # Neopixel-Test
-A simple test for ledunia Neopixels
+A simple test for ledunia neopixels
